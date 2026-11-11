@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "corte": "2026-11-11",
+  "fase": "Diseño y demostración",
+  "resumen": {
+    "situacion": "La documentación S0–S6 y una consola simulada están publicadas. No acreditan conexiones productivas.",
+    "avance": "El 10 de noviembre se revisó el diseño y se registraron los acuerdos. Un informe técnico del 11 de noviembre describe un prototipo visual probado localmente y archivado en Drive.",
+    "siguiente": "Presentar una consola navegable más cercana al producto, con Catálogo, Integraciones y acciones por rol. Compartir una versión verificable.",
+    "pendiente": "Comprobar la publicación y la revisión externa del prototipo. Delimitar las funciones que dependen de cada conexión.",
+    "fuera": "Multicuenta, presupuestos por usuario muy granulares y validaciones conjuntas de soberanía siguen abiertos o pospuestos."
+  },
+  "semanas": [
+    {
+      "id": "2026-W46",
+      "periodo": "9 al 15 de noviembre",
+      "estado": "En curso",
+      "objetivo": "Revisar el diseño y preparar un prototipo navegable.",
+      "resultado": "Reunión del 10 de noviembre y minuta documentada.",
+      "proximo": "Verificar la versión navegable en el siguiente control.",
+      "evidencias": [
+        {
+          "texto": "Minuta del 10 de noviembre",
+          "url": "https://docs.google.com/document/d/14lwO-eeR4N2-OwByR90W7WnppnaNzCbYymUqP7wxcyA/edit"
+        },
+        {
+          "texto": "Informe semanal W46",
+          "url": "https://docs.google.com/document/d/15q2bEfX1tPsODNwmBP05BPy1UL3r_4OOHFYxdi6GrZk/edit"
+        }
+      ]
+    },
+    {
+      "id": "2026-W47",
+      "periodo": "16 al 22 de noviembre",
+      "estado": "No iniciado",
+      "objetivo": "Revisar avances del prototipo en el próximo control.",
+      "resultado": "Todavía no hay entrega verificada para esta semana.",
+      "proximo": "Registrar el resultado real y sus evidencias.",
+      "evidencias": []
+    },
+    {
+      "id": "2026-W48",
+      "periodo": "23 al 29 de noviembre",
+      "estado": "No iniciado",
+      "objetivo": "Objetivo por acordar en el control anterior.",
+      "resultado": "Sin entregables verificados.",
+      "proximo": "Definir compromisos alcanzables.",
+      "evidencias": []
+    }
+  ],
+  "hitos": [
+    {
+      "id": "S0",
+      "nombre": "Base",
+      "alcance": "Alta de agentes y visibilidad de inferencias (A).",
+      "estado": "Concepto / demo"
+    },
+    {
+      "id": "S1",
+      "nombre": "Descubrimiento",
+      "alcance": "Herramientas observadas y evaluación preventiva de políticas.",
+      "estado": "Concepto / demo"
+    },
+    {
+      "id": "S2",
+      "nombre": "Control activo",
+      "alcance": "Políticas, costos por agente y suspensión.",
+      "estado": "Concepto / demo"
+    },
+    {
+      "id": "S3",
+      "nombre": "Identidad",
+      "alcance": "Atribución por usuario mediante la conexión C opcional.",
+      "estado": "Concepto / demo"
+    },
+    {
+      "id": "S4",
+      "nombre": "Integración de herramientas",
+      "alcance": "Gobernanza en el punto de ejecución con conexión B opcional.",
+      "estado": "Concepto / demo"
+    },
+    {
+      "id": "S5",
+      "nombre": "Aprobación humana",
+      "alcance": "Aprobar o denegar acciones cuando exista intercepción.",
+      "estado": "Concepto / demo"
+    },
+    {
+      "id": "S6",
+      "nombre": "Auditoría",
+      "alcance": "Trazabilidad y conservación con supuestos técnicos explícitos.",
+      "estado": "Concepto / demo"
+    }
+  ],
+  "fuentes": [
+    {
+      "texto": "Resumen ejecutivo en Drive",
+      "url": "https://docs.google.com/document/d/1YSE4pDKGdZJKuJ8G8JEzGbMRwxKGOJYFvGpSLkXPqQs/edit"
+    },
+    {
+      "texto": "Registro de compromisos",
+      "url": "https://docs.google.com/spreadsheets/d/1EyeB23_IDt5kCVavyau5-DgudK7tN2CIrFjK2FEKAnE/edit"
+    },
+    {
+      "texto": "Guía y prototipo publicados",
+      "url": "https://enzo-loren.github.io/ai-governance-platform-docs/"
+    },
+    {
+      "texto": "Repositorio de desarrollo",
+      "url": "https://github.com/enzo-loren/agentic-ai-governance-platform"
+    }
+  ],
+  "origen": "Selección editorial del seguimiento de Drive. La sincronización es manual y requiere revisión antes de publicar."
+}
