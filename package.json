@@ -1,0 +1,14 @@
+{
+  "name": "ai-governance-project-hub",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "build": "node scripts/build.mjs",
+    "sync:sheets": "node scripts/sync-sheets.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
